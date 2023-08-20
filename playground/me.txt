@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mahvish Ruhi
+Skills: HTML, CSS, Django,Python and bootstrap
+Email: mahvish.ruhi@gmail.com
+{{/user}}
